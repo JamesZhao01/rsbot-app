@@ -1,0 +1,35 @@
+{
+  "name": "mdb-react-admin-template",
+  "version": "1.0.0",
+  "description": "MDB - React Admin Dashboard Free",
+  "author": "MDBootstrap <support@mdbootstrap.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@auth0/auth0-spa-js": "^1.6.5",
+    "@grpc/proto-loader": "^0.5.3",
+    "@improbable-eng/grpc-web": "^0.12.0",
+    "axios": "^0.19.2",
+    "google-map-react": "^1.0.6",
+    "google-protobuf": "^3.11.4",
+    "grpc": "^1.24.2",
+    "grpc-web": "^1.0.7",
+    "mdbreact": "^4.9.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-google-login": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "2.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
